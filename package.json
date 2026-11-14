@@ -1,0 +1,21 @@
+{
+  "name": "arc-marumo-clone",
+  "version": "1.0.0",
+  "description": "Arc Marumo Portfolio site build & dev server",
+  "main": "server.js",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node server.js",
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "nextjs",
+    "portfolio",
+    "static-site",
+    "webgl",
+    "threejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}

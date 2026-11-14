@@ -1,0 +1,1 @@
+// Nomodule polyfill stub
